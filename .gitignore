@@ -1,3 +1,4 @@
+
 *.iml
 .gradle
 /local.properties
@@ -45,6 +46,7 @@ proguard/
 captures/
 
 # Intellij
+
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -56,6 +58,7 @@ captures/
 
 # External native build folder generated in Android Studio 2.2 and later
 
+
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
@@ -63,3 +66,4 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
